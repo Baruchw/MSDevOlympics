@@ -1,9 +1,9 @@
 FROM microsoft/aspnetcore-build
 WORKDIR /app
 
-COPY MSDevOlympics.csproj .
-RUN dotnet restore
-
 COPY . .
-#RUN dotnet publish --output /out/ --configuration Release
+RUN dotnet restore
+RUN dotnet publish
+COPY . .
+
 EXPORT 8000
