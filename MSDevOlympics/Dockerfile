@@ -4,4 +4,3 @@ WORKDIR /app
 COPY . .
 RUN dotnet restore
 RUN dotnet publish
-COPY . .
