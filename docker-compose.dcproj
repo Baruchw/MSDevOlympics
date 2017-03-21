@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" Sdk="Microsoft.Docker.Sdk">
   <PropertyGroup Label="Globals">
-    <ProjectGuid>f5714221-703b-40e1-98fa-a2fc66a342ad</ProjectGuid>
+    <ProjectGuid>d5105f9b-e4c1-48df-8c3f-493562247811</ProjectGuid>
     <DockerLaunchBrowser>True</DockerLaunchBrowser>
     <DockerServiceUrl>http://localhost:{ServicePort}</DockerServiceUrl>
     <DockerServiceName>msdevolympics</DockerServiceName>
