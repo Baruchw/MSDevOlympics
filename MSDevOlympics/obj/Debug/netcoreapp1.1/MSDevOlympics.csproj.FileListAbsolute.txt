@@ -1,0 +1,9 @@
+C:\Users\baruchw\Source\Repos\MSDevOlympics\MSDevOlympics\bin\Debug\netcoreapp1.1\MSDevOlympics.deps.json
+C:\Users\baruchw\Source\Repos\MSDevOlympics\MSDevOlympics\bin\Debug\netcoreapp1.1\MSDevOlympics.runtimeconfig.json
+C:\Users\baruchw\Source\Repos\MSDevOlympics\MSDevOlympics\bin\Debug\netcoreapp1.1\MSDevOlympics.runtimeconfig.dev.json
+C:\Users\baruchw\Source\Repos\MSDevOlympics\MSDevOlympics\bin\Debug\netcoreapp1.1\MSDevOlympics.dll
+C:\Users\baruchw\Source\Repos\MSDevOlympics\MSDevOlympics\bin\Debug\netcoreapp1.1\MSDevOlympics.pdb
+C:\Users\baruchw\Source\Repos\MSDevOlympics\MSDevOlympics\obj\Debug\netcoreapp1.1\MSDevOlympics.csprojResolveAssemblyReference.cache
+C:\Users\baruchw\Source\Repos\MSDevOlympics\MSDevOlympics\obj\Debug\netcoreapp1.1\MSDevOlympics.AssemblyInfo.cs
+C:\Users\baruchw\Source\Repos\MSDevOlympics\MSDevOlympics\obj\Debug\netcoreapp1.1\MSDevOlympics.dll
+C:\Users\baruchw\Source\Repos\MSDevOlympics\MSDevOlympics\obj\Debug\netcoreapp1.1\MSDevOlympics.pdb
