@@ -1,2 +1,2 @@
 # MSDevOlympics
-Microsoft Dev Olympics App for 2017
+Microsoft Dev Olympics ASP.net Core App for 2017
